@@ -15,7 +15,9 @@ app.use(require('./routes'));
 app.use('/api/movies', require('./routes/movies'));
 app.use('/api/users', require('./routes/users'));
 
-// starting the server
+// starting the server//
 app.listen(app.get('port'), () => {
     console.log(`Server on port ${app.get('port')}`);
 });
+
+///segunda guerra mundial esta mas cerca que cualquier cosa
