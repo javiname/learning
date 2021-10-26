@@ -21,4 +21,5 @@ app.listen(app.get('port'), () => {
 });
 
 ///segunda guerra mundial esta mas cerca que cualquier cosa mundia
+// jugaremos los metodos de java script
 
